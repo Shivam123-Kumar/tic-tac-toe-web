@@ -7,4 +7,4 @@ Built with React, Node.js, Socket.IO
 
 Contributors:
 - Shivam Kumar
-- teams
+- Gaurav Chajed
